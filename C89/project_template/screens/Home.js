@@ -6,7 +6,9 @@ import {
     SafeAreaView,
     TouchableOpacity,
     Platform,
-    StatusBar
+    StatusBar,
+    ImageBackground,
+    Image
 } from "react-native";
 
 export default class HomeScreen extends Component {
